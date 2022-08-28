@@ -3,17 +3,20 @@
 ## 下载地址
 ### 本体
 - github的release版本
-- 本体下载：[[Google云端硬盘]](https://drive.google.com/file/d/1xmlsc0oAdO6BWBPJG_0sPfRyeNWS9P7h/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1J58AvhuRNULviPo1X8XZ1A?pwd=c95e)
+- 本体下载：
+	- [[Google云端硬盘]](https://drive.google.com/file/d/1xmlsc0oAdO6BWBPJG_0sPfRyeNWS9P7h/view?usp=sharing)
+	- [[Baidu]](https://pan.baidu.com/s/1J58AvhuRNULviPo1X8XZ1A?pwd=c95e)
 ### 预训练模型
-
-1. ichika：[[Google云端硬盘]](https://drive.google.com/file/d/1_P_2U0TC1U_T3lxxxVW3TuKJ45l2w4Cm/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1oSYX9TTg9COJsabkU3gomg?pwd=m4qf)
-2. saki：[[Google云端硬盘]](https://drive.google.com/file/d/1zB09x-7qSe-abyxH8NIUZ7lCSYQ4UfEp/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/15qtkqWib87Ks3OWKm7AFcw?pwd=13dj)
-3. airi：[[Google云端硬盘]](https://drive.google.com/file/d/1uWeixKe5PEz4mGhjS9K8Z8d1AJpv2izO/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1w_8yQ9grDcj8Hseo-ovWaA?pwd=sw6p)
-4. mizuki：[[Google云端硬盘]](https://drive.google.com/file/d/1e43kk2SWAeh3EPMAsW-bDdVROsW7VVa8/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1l_jLQZQiTQbgGTZztUuwBQ?pwd=6sih)
-5. ena：[[Google云端硬盘]](https://drive.google.com/file/d/1sL9VjWAjPWAS2ilACqcR5WHLCjcF1u4k/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1-IYeQ7DdAoD6I2CzlGXSyw?pwd=ej7c)
-6. mafuyu：[[Google云端硬盘]](https://drive.google.com/file/d/1it_vKoFDVryxzjRbglYvMy6vi2tXTKoO/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1G04eZDFJcqm8LCZNbEF9fQ?pwd=b8br)
-7. kanade：[[Google云端硬盘]](https://drive.google.com/file/d/16K_R_AWC5tELDpRYaA6DLYucYqfcoho2/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1QPYNsh9qfPDW7mzTpUo5wA?pwd=z5fm)
-8. mmj：[[Google云端硬盘]](https://drive.google.com/file/d/1dp1BFS0MHt6_8ZaKkMOPiU2P8yYsKJwY/view?usp=sharing) [[Baidu]](https://pan.baidu.com/s/1UcCsooLr97cHHWXd8P431w?pwd=265a)
+|Character|Version|Google|Baidu|
+|:---:|:---:|:---:|:---:|
+|ichika|1.0|[ichika](https://drive.google.com/file/d/1_P_2U0TC1U_T3lxxxVW3TuKJ45l2w4Cm/view?usp=sharing)|[ichika](https://pan.baidu.com/s/1oSYX9TTg9COJsabkU3gomg?pwd=m4qf)|
+|saki|1.0|[saki](https://drive.google.com/file/d/1zB09x-7qSe-abyxH8NIUZ7lCSYQ4UfEp/view?usp=sharing)|[saki](https://pan.baidu.com/s/15qtkqWib87Ks3OWKm7AFcw?pwd=13dj)|
+|airi|1.0|[airi](https://drive.google.com/file/d/1uWeixKe5PEz4mGhjS9K8Z8d1AJpv2izO/view?usp=sharing)|[airi](https://pan.baidu.com/s/1w_8yQ9grDcj8Hseo-ovWaA?pwd=sw6p)|
+|mizuki|1.0|[mizuki](https://drive.google.com/file/d/1e43kk2SWAeh3EPMAsW-bDdVROsW7VVa8/view?usp=sharing)|[mizuki](https://pan.baidu.com/s/1l_jLQZQiTQbgGTZztUuwBQ?pwd=6sih)|
+|ena|1.0|[ena](https://drive.google.com/file/d/1sL9VjWAjPWAS2ilACqcR5WHLCjcF1u4k/view?usp=sharing)|[ena](https://pan.baidu.com/s/1-IYeQ7DdAoD6I2CzlGXSyw?pwd=ej7c)|
+|mafuyu|1.0|[mafuyu](https://drive.google.com/file/d/1it_vKoFDVryxzjRbglYvMy6vi2tXTKoO/view?usp=sharing) |[mafuyu](https://pan.baidu.com/s/1G04eZDFJcqm8LCZNbEF9fQ?pwd=b8br)|
+|kanade|1.0|[kanade](https://drive.google.com/file/d/16K_R_AWC5tELDpRYaA6DLYucYqfcoho2/view?usp=sharing)|[kanade](https://pan.baidu.com/s/1QPYNsh9qfPDW7mzTpUo5wA?pwd=z5fm)|
+|more more jump!|1.0|[mmj](https://drive.google.com/file/d/1dp1BFS0MHt6_8ZaKkMOPiU2P8yYsKJwY/view?usp=sharing) |[mmj](https://pan.baidu.com/s/1UcCsooLr97cHHWXd8P431w?pwd=265a)|
 ## 关于授权（重要）
 - 欢迎同人二创作品，用于PJSK的语音不需要授权，用于其它游戏的角色请提前私信我。但是请勿将语音合成结果直接用于商业目的。
 - 二创作品请**注明基于语音合成，并标注语音合成出处**->（B站源视频），并且**禁止**制作会造成对角色产生不良影响的作品。避免造成不必要的误会。
