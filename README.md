@@ -19,8 +19,8 @@ v1.1.0更新内容：
 |:---:|:---:|:---:|:---:|
 |ichika|1.0|[ichika](https://drive.google.com/file/d/1_P_2U0TC1U_T3lxxxVW3TuKJ45l2w4Cm/view?usp=sharing)|[ichika](https://pan.baidu.com/s/1oSYX9TTg9COJsabkU3gomg?pwd=m4qf)|
 |saki|1.0|[saki](https://drive.google.com/file/d/1zB09x-7qSe-abyxH8NIUZ7lCSYQ4UfEp/view?usp=sharing)|[saki](https://pan.baidu.com/s/15qtkqWib87Ks3OWKm7AFcw?pwd=13dj)|
-|honami|1.0|[honami](https://drive.google.com/file/d/152VhjHghjd8W6eV08ah66-xRa9IG0aT1/view?usp=sharing)||
-|shiho|1.0|[shiho](https://drive.google.com/file/d/1-7q3pR0HvBdrPdkEmpOmZTQLAyzaiW-I/view?usp=sharing)||
+|honami|1.0|[honami](https://drive.google.com/file/d/152VhjHghjd8W6eV08ah66-xRa9IG0aT1/view?usp=sharing)|[honami](https://pan.baidu.com/s/19frIm486bB5X0_4qNaB2og?pwd=mius)|
+|shiho|1.0|[shiho](https://drive.google.com/file/d/1-7q3pR0HvBdrPdkEmpOmZTQLAyzaiW-I/view?usp=sharing)|[shiho(https://pan.baidu.com/s/1EEj3Ks1V15ZWeihnC7FWuA?pwd=bfhi)]|
 |airi|1.0|[airi](https://drive.google.com/file/d/1uWeixKe5PEz4mGhjS9K8Z8d1AJpv2izO/view?usp=sharing)|[airi](https://pan.baidu.com/s/1w_8yQ9grDcj8Hseo-ovWaA?pwd=sw6p)|
 |mizuki|1.0|[mizuki](https://drive.google.com/file/d/1e43kk2SWAeh3EPMAsW-bDdVROsW7VVa8/view?usp=sharing)|[mizuki](https://pan.baidu.com/s/1l_jLQZQiTQbgGTZztUuwBQ?pwd=6sih)|
 |ena|1.0|[ena](https://drive.google.com/file/d/1sL9VjWAjPWAS2ilACqcR5WHLCjcF1u4k/view?usp=sharing)|[ena](https://pan.baidu.com/s/1-IYeQ7DdAoD6I2CzlGXSyw?pwd=ej7c)|
