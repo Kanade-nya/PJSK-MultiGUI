@@ -2,7 +2,6 @@
 
 **更快、更简单的进行语音合成**  v1.1.0
 
----
 
 v1.1.0更新内容：
 - honami,shiho的模型
@@ -14,7 +13,6 @@ v1.1.0更新内容：
 
 - github的release版本 （更新至v1.1.0)  
 - 本体下载：
-	- [[Google云端硬盘]](https://drive.google.com/file/d/1xmlsc0oAdO6BWBPJG_0sPfRyeNWS9P7h/view?usp=sharing)
 	- [[Baidu]](https://pan.baidu.com/s/1CbjIF4QztLTj3mj4z_q6Ow?pwd=t4dr)（更新至v1.1.0)  
 ### 预训练模型
 |Character|Version|Google|Baidu|
