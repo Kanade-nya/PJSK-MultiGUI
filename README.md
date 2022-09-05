@@ -1,19 +1,17 @@
 # PJSK-MultiGUI
 
-**更快、更简单的进行语音合成**  v1.1.0
+**更快、更简单的进行语音合成**  v1.2.0
 
+**如果此版本还有闪退问题，请找到`logs/info.log`文件并复制其中内容至issues，这将可以令我更好的定位到问题所在，十分感谢**
 
-v1.1.0更新内容：
-- honami,shiho的模型
-- 在可能的情况下，GUI直接输出报错而不是闪退
 
 ## 下载地址
 
 ### 本体
 
-- github的release版本 （更新至v1.1.0)  
+- github的release版本 （更新至v1.2.0)  
 - 本体下载：
-	- [[Baidu]](https://pan.baidu.com/s/1CbjIF4QztLTj3mj4z_q6Ow?pwd=t4dr)（更新至v1.1.0)  
+	- [[Baidu]](https://pan.baidu.com/s/1XC2uERLAqGkW89AlK_vDTg?pwd=zj6q)（更新至v1.2.0)  
 ### 预训练模型
 |Character|Version|Google|Baidu|
 |:---:|:---:|:---:|:---:|
@@ -70,3 +68,9 @@ v1.1.0更新内容：
 - 数据集提供者：涼风_青叶 [-Bilibili空间-](https://space.bilibili.com/5437778)
 - 原vits-japanese项目提供者：[CjangCjengh](https://github.com/CjangCjengh) [-Bilibili空间-](https://space.bilibili.com/35285881)
 - vits原项目：[vits](https://github.com/jaywalnut310/vits)
+
+## 更新历史
+
+- v1.1.0
+	- honami,shiho的模型
+	- 在可能的情况下，GUI直接输出报错而不是闪退
