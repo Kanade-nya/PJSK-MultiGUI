@@ -15,7 +15,7 @@
 ### 预训练模型
 |Character|Version|Google|Baidu|
 |:---:|:---:|:---:|:---:|
-|ichika|1.0|[ichika](https://drive.google.com/file/d/1_P_2U0TC1U_T3lxxxVW3TuKJ45l2w4Cm/view?usp=sharing)|[ichika](https://pan.baidu.com/s/1oSYX9TTg9COJsabkU3gomg?pwd=m4qf)|
+|ichika|1.1|[ichika](https://drive.google.com/u/0/uc?id=1ODFN9gilbX9wEl8pWEKnWX3HykndYXHS&export=download)|[ichika](https://pan.baidu.com/s/1jbTQb4QXjhPtvkh45upbGQ?pwd=0leo )|
 |saki|1.0|[saki](https://drive.google.com/file/d/1zB09x-7qSe-abyxH8NIUZ7lCSYQ4UfEp/view?usp=sharing)|[saki](https://pan.baidu.com/s/15qtkqWib87Ks3OWKm7AFcw?pwd=13dj)|
 |honami|1.0|[honami](https://drive.google.com/file/d/152VhjHghjd8W6eV08ah66-xRa9IG0aT1/view?usp=sharing)|[honami](https://pan.baidu.com/s/19frIm486bB5X0_4qNaB2og?pwd=mius)|
 |shiho|1.0|[shiho](https://drive.google.com/file/d/1-7q3pR0HvBdrPdkEmpOmZTQLAyzaiW-I/view?usp=sharing)|[shiho](https://pan.baidu.com/s/1-tJy-9EKlsp74i8tJXiNRA?pwd=xkpd)|
