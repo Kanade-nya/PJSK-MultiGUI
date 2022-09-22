@@ -1,17 +1,19 @@
 # PJSK-MultiGUI
 
-**更快、更简单的进行语音合成**  v1.2.0
+**更快、更简单的进行语音合成**  v1.3.0
 
 **如果此版本还有闪退问题，请找到`logs/info.log`文件并复制其中内容至issues，这将可以令我更好的定位到问题所在，十分感谢**
+
+更新了vbs,ws的模型，至此PJSK的模型全部更新完毕
 
 
 ## 下载地址
 
 ### 本体
 
-- github的release版本 （更新至v1.2.0)  
+- github的release版本 （更新至v1.3.0)  
 - 本体下载：
-	- [[Baidu]](https://pan.baidu.com/s/1XC2uERLAqGkW89AlK_vDTg?pwd=zj6q)（更新至v1.2.0)  
+	- [[Baidu]](https://pan.baidu.com/s/1Bt7fRTbT5QlDGU-V8l2GpQ?pwd=jvnf)（更新至v1.3.0)  
 ### 预训练模型
 |Character|Version|Google|Baidu|
 |:---:|:---:|:---:|:---:|
@@ -25,6 +27,10 @@
 |mafuyu|1.0|[mafuyu](https://drive.google.com/file/d/1it_vKoFDVryxzjRbglYvMy6vi2tXTKoO/view?usp=sharing) |[mafuyu](https://pan.baidu.com/s/1G04eZDFJcqm8LCZNbEF9fQ?pwd=b8br)|
 |kanade|1.0|[kanade](https://drive.google.com/file/d/16K_R_AWC5tELDpRYaA6DLYucYqfcoho2/view?usp=sharing)|[kanade](https://pan.baidu.com/s/1QPYNsh9qfPDW7mzTpUo5wA?pwd=z5fm)|
 |more more jump!|1.1|[mmj](https://drive.google.com/file/d/19BG7vQpjB3oXuWKlOfDluVN0OFzjnzNC/view?usp=sharing) |[mmj](https://pan.baidu.com/s/1UcCsooLr97cHHWXd8P431w?pwd=265a)|
+|Vivid BAD SQUAD|1.0| |[vbs](https://pan.baidu.com/s/1UgAV_-4JJe0KkzRvQeQ2QQ?pwd=49dm)|
+|Wonderlands×Showtime|1.0| |[ws](https://pan.baidu.com/s/1uWm1gG60XCwfld84T8BPKw?pwd=d3gx)|
+
+
 ## 关于授权（重要）
 - 欢迎同人二创作品，用于PJSK的语音不需要授权，用于其它游戏的角色请提前私信我。但是请勿将语音合成结果直接用于商业目的。
 - 二创作品请**注明基于语音合成，并标注语音合成出处**->（B站源视频），并且**禁止**制作会造成对角色产生不良影响的作品。避免造成不必要的误会。
