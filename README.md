@@ -6,14 +6,15 @@
 
 更新了vbs,ws的模型，至此PJSK的模型全部更新完毕
 
+1.3.1：复制了文件，不用第一次使用卡一会了
 
 ## 下载地址
 
 ### 本体
 
-- github的release版本 （更新至v1.3.0)  
+- github的release版本 （更新至v1.3.1)  
 - 本体下载：
-	- [[Baidu]](https://pan.baidu.com/s/1Bt7fRTbT5QlDGU-V8l2GpQ?pwd=jvnf)（更新至v1.3.0)  
+	- [[Baidu]](https://pan.baidu.com/s/1XlCLY_81DyRmbjSHnrvBTA?pwd=qrcp)（更新至v1.3.1)  
 ### 预训练模型
 |Character|Version|Google|Baidu|
 |:---:|:---:|:---:|:---:|
