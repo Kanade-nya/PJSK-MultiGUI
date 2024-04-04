@@ -7,6 +7,16 @@
 更新了vbs,ws的模型，至此PJSK的模型全部更新完毕
 
 1.3.1：复制了文件，不用第一次使用卡一会了
+## 常见报错问题
+
+```
+KeyError: Failed to initalize Mecab
+Error: local variable 'stn_tst' referenced before assignment
+```
+请检查路径，各种文章的路径中均不能包含中文（也不要运行在C盘或者直接下载到桌面解压）
+
+目前只有Windows版本,没有Mac版本（可能以后也没有除非有人想做，源码都有）
+
 
 ## 下载地址
 
@@ -70,7 +80,7 @@
 - 输入不带标点的语句
 	
 ## 致谢
-- ick,hnm,shiho,mfy模型提供者：没人理 [-Bilibili空间-](https://space.bilibili.com/618272)
+- ick,hnm,shiho,mfy,ws模型提供者：没人理 [-Bilibili空间-](https://space.bilibili.com/618272)
 - knd模型提供者： 鲤鱼L1yuu [-Bilibili空间-](https://space.bilibili.com/436749613)
 - 数据集提供者：涼风_青叶 [-Bilibili空间-](https://space.bilibili.com/5437778)
 - 原vits-japanese项目提供者：[CjangCjengh](https://github.com/CjangCjengh) [-Bilibili空间-](https://space.bilibili.com/35285881)
