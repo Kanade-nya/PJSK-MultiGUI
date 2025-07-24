@@ -25,7 +25,7 @@ Error: local variable 'stn_tst' referenced before assignment
   - github的release版本 （更新至v1.3.1)
   - [[Baidu]](https://pan.baidu.com/s/1XlCLY_81DyRmbjSHnrvBTA?pwd=qrcp)（更新至v1.3.1)
 - mac/linux版本:
-  - [github](https://github.com/Kanade-nya/gui-resource)
+  - [github](https://github.com/Crepveant/gui-resource)
 ### 预训练模型
 
 |       Character      | Version |                                             Google                                             |                                Baidu                                |
