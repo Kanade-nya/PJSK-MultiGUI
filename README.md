@@ -17,8 +17,6 @@ Error: local variable 'stn_tst' referenced before assignment
 
 请检查路径，各种文章的路径中均不能包含中文（也不要运行在C盘或者直接下载到桌面解压）
 
-目前只有Windows版本,没有Mac版本（可能以后也没有除非有人想做，源码都有）
-S
 ## 下载地址
 
 ### 本体
